@@ -1,0 +1,62 @@
+header{
+    background-color:  #55b6fb;
+}
+header img{
+    width: 100px;
+    height: 100px;
+    margin-bottom:19px;
+}
+nav a {
+font-size:21px;
+margin:0 4px 0 4px;
+text-decoration: none;
+padding: 3px;
+background-color: rgb(177, 217, 255)  ;
+border: 1px solid blue;
+border-radius: 29px;
+margin-top: -10px;
+
+
+}
+nav{
+padding:20px ;  
+padding-top: 0px;
+}
+main{
+    background:linear-gradient(rgb(89, 89, 251),#0099e6,white);
+}
+footer{
+    background-color: #005580;
+    color: white;
+}
+.www {
+text-align: center;
+}
+.hehe {
+    width: 140px;
+    height: 140px;
+     border-radius: 22px;
+}
+.ioio{
+    width: 140px;
+    height: 140px;
+     border-radius: 22px;
+}
+.eoeo{
+    width: 240px;
+    height: 140px;
+    border-radius: 22px;
+}
+.aoao{
+    width: 240px;
+    height: 140px;
+    border-radius: 22px;
+}
+.lolo{
+    width: 170px;
+    height: 140px;
+    border-radius: 22px;
+}
+Body{
+    background:linear-gradient(rgb(89, 89, 251),#0099e6,white);
+}
